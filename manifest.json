@@ -1,0 +1,15 @@
+{
+  "short_name": "CP-156 Test",
+  "name": "SeatsX - CP156",
+  "icons": [
+    {
+      "src": "https://static.zinoui.com/img/logos/icon-144x144.png",
+      "type": "image/png",
+      "sizes": "144x144"
+    }
+  ],
+  "background_color": "#FFFFFF",
+  "theme_color": "#67BCFF",
+  "display": "standalone",
+  "start_url": "/?utm_source=homescreen"
+}
